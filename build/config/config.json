@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x895E1669Ef3dB7B31CDd6129C7F333e9DB053E3d",
+  "SCAN_LINK": "https://optimistic.etherscan.io/address/0x895E1669Ef3dB7B31CDd6129C7F333e9DB053E3d",
+  "NETWORK": {
+    "NAME": "Optimism",
+    "SYMBOL": "Eth",
+    "ID": 10
+  },
+  "NFT_NAME": "XmasBook",
+  "SYMBOL": "XMB",
+  "MAX_SUPPLY": 2022,
+  "WEI_COST": 13370000000000000,
+  "DISPLAY_COST": 0.01337,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "xmasbook",
+  "MARKETPLACE_LINK": "https://xmasbook.art",
+  "SHOW_BACKGROUND": true
+}
